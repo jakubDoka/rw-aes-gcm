@@ -1,5 +1,8 @@
 [package]
 name = "rw-aes-gcm"
+description = "std::io::{Read, Write} encrypted with AES-GCM"
+repository = "https://github.com/jakubDoka/rw-aes-gcm"
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
 
